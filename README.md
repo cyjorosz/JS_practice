@@ -1,3 +1,3 @@
 # JavaScript Practice 
 
-Practicing JavaScript using QuickStart to JavaScript tutorial. 
+Practicing JavaScript using Pluralsight's QuickStart to JavaScript tutorial. 
